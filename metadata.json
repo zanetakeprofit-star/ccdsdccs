@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Virtual Stylist AI",
+  "description": "Upload any piece of clothing and get 3 professionally styled outfits (Casual, Business, Night Out) with high-quality AI-generated flat-lay visualizations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
